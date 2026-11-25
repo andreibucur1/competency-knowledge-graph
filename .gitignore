@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.idea/
+.pytest_cache/
+data/raw/
+data/interim/
+data/ESCO dataset - v1.2.1 - classification - en - csv/
